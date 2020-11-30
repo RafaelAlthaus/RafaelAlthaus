@@ -8,12 +8,7 @@ Senior web developer and tech lead based in Brazil. Mainly interested in backend
 
 These are the technologies that I'm currently working with on a daily basis:
 
-- Java;
-- PHP;
-- JavaScript;
-- MySQL;
-- MongoDB;
-- AWS
+- Java / PHP / JavaScript / MySQL / MongoDB / AWS;
 - And so many frameworks / libs such as Spring, Laravel, React Native, etc.
 
 ### 🤝🏻 &nbsp;Get in Touch

@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Rafael Althaus
+## 👋 &nbsp;I'm Rafael Althaus
 
 ### 👨🏻‍💻 &nbsp;About me
 

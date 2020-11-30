@@ -21,7 +21,8 @@ These are the technologies that I'm currently working with on a daily basis:
 <p align="center">
 <a href="https://github.com/RafaelAlthaus">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaelAlthaus&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelAlthaus&layout=compact&langs_count=8&theme=react"/>
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelAlthaus&layout=compact&langs_count=8&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 

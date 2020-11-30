@@ -16,7 +16,7 @@ These are the technologies that I'm currently working with on a daily basis:
 Any questions? Let's hangout.
 
 * [LinkedIn](https://www.linkedin.com/in/rafael-althaus-3459b8a5/)
-* [Instagram](https://instagram.com/rafaelalthaus)
+* [Instagram](https://instagram.com/rafael_althaus)
 * [Email](mailto:rafael.althaus@gmail.com)
 
 ### ⚙️ &nbsp;GitHub analytics

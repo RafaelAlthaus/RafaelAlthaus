@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About me
 
-Senior web developer and tech lead based in Brazil. Mainly interested in backend applications and cloud infrastructure.
+Senior web developer and CTO based in Brazil. Mainly interested in backend applications and cloud infrastructure.
 
 ### 🛠 &nbsp;Main tech stack
 

@@ -8,8 +8,7 @@ Senior web developer and CTO based in Brazil. Mainly interested in backend appli
 
 These are the technologies that I'm currently working with on a daily basis:
 
-- Java / PHP / JavaScript / MySQL / MongoDB / AWS;
-- And so many frameworks / libs such as Spring, Laravel, AdonisJS, React Native, etc.
+- Laravel / NodeJS / NextJS / React Native / MySQL / AWS;
 
 ### 🤝🏻 &nbsp;Get in touch
 
